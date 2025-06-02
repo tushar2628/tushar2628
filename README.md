@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Transforming Ideas into Interactive Web Experiences</h3>
 
-<img align ="right" alt="developer" width="400" src="https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar2628&label=Profile%20views&color=0e75b6&style=flat" alt="tushar2628" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar2628" alt="tushar2628" /></a> </p>
 
 - 📫 How to reach me **tusharg2628@gmail.com**
 
