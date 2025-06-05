@@ -1,4 +1,4 @@
-![logo](https://github.com/tushar2628/tushar2628/blob/main/Banner.png)
+![logo](https://github.com/tushar2628/tushar2628/blob/main/Bg_Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Transforming Ideas into Interactive Web Experiences</h3>
 
