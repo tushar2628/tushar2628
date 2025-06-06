@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Hutti Web Application](hutti.in)
+- 🔭 I’m currently working on [Hutti Web Application(hutti.in)]
 
 - 🌱 I’m currently learning **Backend technologies (Nodejs,Mongodb,Firebase)**
 
