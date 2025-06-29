@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tusharg2628@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D8NLedLfA3tVVcVO-uaL9Utp1swIhxwD/view?usp=sharing](https://drive.google.com/file/d/1D8NLedLfA3tVVcVO-uaL9Utp1swIhxwD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fny80pKgpNxel3QmdsDdIkL6QNnKIfF2/view?usp=drive_link](https://drive.google.com/file/d/1fny80pKgpNxel3QmdsDdIkL6QNnKIfF2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
